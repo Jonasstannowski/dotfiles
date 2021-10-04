@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = jonas.stannowski@icloud.com
+	name = Jonas Stannowski
